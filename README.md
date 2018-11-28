@@ -1,10 +1,10 @@
 # Dooca themekit cli
 
-Ferramenta para desenvovimento de temas na plataforma ([Dooca commerce](https://dooca.com.br)).
+Ferramenta para desenvovimento de temas na plataforma [Dooca commerce](https://dooca.com.br).
 
 # Instalação
 
-Para instalação aconselhamos o uso do ([yarn](https://yarnpkg.com/))
+Para instalação aconselhamos o uso do [yarn](https://yarnpkg.com/)
 
 ```bash
 yarn global add @doocacommerce/dooca-cli

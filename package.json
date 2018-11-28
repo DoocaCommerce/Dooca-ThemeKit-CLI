@@ -1,10 +1,15 @@
 {
   "name": "@doocacommerce/dooca-cli",
-  "version": "1.0.0-beta.1",
-  "description": "Dooca commerce theme kit CLI",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Dooca commerce themekit CLI",
+  "main": "bin/commands.js",
   "preferGlobal": true,
   "author": "Tiago Terme",
+  "homepage": "https://github.com/DoocaCommerce/Dooca-themekit-CLI#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DoocaCommerce/Dooca-themekit-CLI.git"
+  },
   "license": "MIT",
   "bin": {
     "dooca": "./bin/commands.js"

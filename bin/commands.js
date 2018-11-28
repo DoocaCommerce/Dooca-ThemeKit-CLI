@@ -7,7 +7,7 @@ const Template = require('../lib/template.js');
 const { createConfig, getConfig } = require('../lib/config.js');
 
 Program
-	.version('1.0.0 - beta')
+	.version('1.0.0')
 	.description('CLI Dooca commerce themekit');
 
 Program
