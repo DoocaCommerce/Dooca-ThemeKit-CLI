@@ -1,0 +1,41 @@
+{
+  "name": "@doocacommerce/dooca-cli",
+  "version": "1.0.0-beta.1",
+  "description": "Dooca commerce theme kit CLI",
+  "main": "index.js",
+  "preferGlobal": true,
+  "author": "Tiago Terme",
+  "license": "MIT",
+  "bin": {
+    "dooca": "./bin/commands.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@babel/core": "7.1.2",
+    "@babel/preset-env": "7.1.0",
+    "adm-zip": "^0.4.11",
+    "autoprefixer": "9.3.1",
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.3",
+    "browser-sync": "2.26.3",
+    "chokidar": "2.0.4",
+    "colors": "1.1.2",
+    "commander": "2.11.0",
+    "concat": "1.0.3",
+    "fs-extra": "7.0.0",
+    "inquirer": "4.0.0",
+    "node-sass": "4.9.4",
+    "postcss": "7.0.5"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "dooca",
+    "cli",
+    "themekit"
+  ]
+}
