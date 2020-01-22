@@ -3,3 +3,4 @@ package-lock.json
 dooca-config.json
 .vscode
 yarn.lock
+.DS_Store
